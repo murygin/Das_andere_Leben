@@ -1,1 +1,3 @@
 # Kapitel 6
+
+Die Varianz der Laufzeit beim Senden von Nachrichten ist ein kompliziertes Problem auf ihrer Reise. Alle Systeme müssen damit zurechtkommen, dass eine Informationen, ein Befehl oder auch eine Notfallmeldung eine halbe Sekunde nach dem Senden eintrifft oder erst nach mehreren Wochen, je nachdem wie weit sie als Sender vom Empfänger in einem Rechenzentrum entfernt sind. Der Delay muss mitgedacht werden, alle Dienste sind asynchron implementiert und funktionieren ereignisgesteuert. Darauf müssen sie sich als Anwendende einstellen. Die Gesetze der Physik geben den Tackt vor. Eine Antwort auf seine Nachricht erreicht den Anderen frühestens nach der zweifachen Laufzeit.
