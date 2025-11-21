@@ -1,0 +1,21 @@
+# Ablauf
+
+- Saturn
+- Die Paarung
+- Neue Umlaufbahn, Enceladus
+- Entdeckung der Schwangerschaft
+- Planet D (die Erde) ist außergewöhnlich 
+- Die 4 bleiben zusammen 
+- Geburt (einer neuen 3)
+- Flug zur Erde 
+- Ankunft und Umlaufbahn
+- Kollision mit Satelliten, Ausfall der Kommunikationssysteme 
+- Beobachtung der Ozeane,.Kontinente und Atmosphäre bzw. Wolken
+- Pflanzen 
+- Zufällige Entdeckung von Walen 
+- Tiere auf dem Land
+- Entdeckung von Menschen als ein Tier unter anderen Tieren
+- Der Mensch ist besonders 
+- Städte 
+- Technik
+- Festival, Fusion
