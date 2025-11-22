@@ -35,6 +35,10 @@ G: Saturn
 H: Uranus
 I: Neptun
 
+## Wörter
+
+- [gleichmütig](https://de.wiktionary.org/wiki/gleichm%C3%BCtig)
+
 ## Links
 
 - [Interplanetarer Raum](https://de.wikipedia.org/wiki/Interplanetarer_Raum)
