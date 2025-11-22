@@ -1,4 +1,6 @@
-# Ablauf
+# Notizen
+
+## Ablauf
 
 - Saturn
 - Die Paarung
@@ -6,6 +8,7 @@
 - Entdeckung der Schwangerschaft
 - Planet D (die Erde) ist außergewöhnlich 
 - Die 4 bleiben zusammen 
+- Flug von Planet G zu Planet G mit [Swing-by-Manöver](https://de.wikipedia.org/wiki/Swing-by)
 - Geburt (einer neuen 3)
 - Flug zur Erde 
 - Ankunft und Umlaufbahn
@@ -19,3 +22,21 @@
 - Städte 
 - Technik
 - Festival, Fusion
+
+## Das 23. System
+
+A: Sonne
+B: Merkur
+C: Venus
+D: Erde
+E: Mars
+F: Jupiter
+G: Saturn
+H: Uranus
+I: Neptun
+
+## Links
+
+- [Interplanetarer Raum](https://de.wikipedia.org/wiki/Interplanetarer_Raum)
+- [Interstellarer Raum](https://de.wikipedia.org/wiki/Interstellarer_Raum)
+- [Intergalaktischer Raum](https://de.wikipedia.org/w/index.php?title=Intergalaktischer_Raum&redirect=no)
