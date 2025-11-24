@@ -1,5 +1,7 @@
 # Das andere Leben
 
+_Dieses Repository enthält ein Romanfragment._
+
 1. [Ringe](Kapitel_1-Ringe.md)
 2. [Monde](Kapitel_2-Monde.md)
 3. [Umlaufbahnen](Kapitel_3-Umlaufbahnen.md)
