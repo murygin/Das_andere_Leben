@@ -44,3 +44,4 @@ I: Neptun
 - [Interplanetarer Raum](https://de.wikipedia.org/wiki/Interplanetarer_Raum)
 - [Interstellarer Raum](https://de.wikipedia.org/wiki/Interstellarer_Raum)
 - [Intergalaktischer Raum](https://de.wikipedia.org/w/index.php?title=Intergalaktischer_Raum&redirect=no)
+- [Vakuum](https://de.wikipedia.org/wiki/Vakuum)
