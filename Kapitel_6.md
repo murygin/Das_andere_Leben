@@ -17,3 +17,23 @@ _Stichworte_
 - _Die drei kommen eich näher_
 
 Genau wie vor interstellaren, müssen auch vor interplanetaren Reisen die großen Triebwerke gezündet werden. Im Handbuch für den interplanetaren Flug werden alle Vorbereitungen beschrieben, die dafür nötig sind. Das Buch ist zerlesen. Eigentlich kennt der Andere alle Arbeitsschritte auswendig. Trotzdem schlägt er das Buch jedes mal auf und geht die Schritte einzeln durch. Das meiste kann er vom Kontrollraum aus erledigen. Um die Triebwerke vorzubereiten, muss er jedoch in einen Teil des Raumschiffes, im dem es keine Schwerkraft und keine Luft zum Atmen gibt. Dort herrschen die Bedingungen des Weltraums. Er kann dort nicht hin ohne einen Schutzanzug. Den kann er nicht ohne Hilfe von anderen anziehen. Der Bereich, in den er muss, um die Triebwerke zu kontrollieren wird vom Rest des Schiffes abgetrennt durch Schleusen. Vor den Schleusen gibt es Kabinen zum Anlegen der Anzüge. In einer dieser Kabinen trifft er die Eins, die ihm behilflich sein wird. Die Eins ist beunruhigt und will wissen, wann genau der interplanetare Flug starten soll. Ist das wirklich nötig? Die Zwei kann sich zwar noch bewegen, aber sie ist langsam und sie kann nicht, in der dafür vorgesehen Zeit alle Aufgaben erledigen, die jetzt erforderlich sind. Die Eins ist nervös und fahrig beim Anlegen des Anzuges. Erst als der Andere zwei ihrer Hände packt und festhält beruhigt sie sich. Mit den anderen beiden Händen schließt die Eins die Ventile an den Schläuchen des Anzuges des Anderen. Sie schauen sich in die Augen. Immer noch berühren sich ihre Hände. Der Andere vermeidet wie alle Dreien Körperkontakt, wann immer es geht. In diesem Moment spürt er etwas. Die Stelle an seiner Hand, die die Hand der Eins berührt, wird warm und er hat das Bedürfnis, die Eins auch mit den anderen Händen zu berühren, sie mit allen seinen vier Händen zu umarmen und an sich zu drücken. Diese Gefühle irritieren ihn so sehr, dass er ihr nicht näher kommt, sondern sie stattdessen wegstößt.
+
+Langsam öffnen sich das äußere Tor der Schleuse, nachdem die Luft. Bevor die Luft abgelassen wurde, musste die Eins die Schleuse verlassen. Der Andere ist jetzt wieder allein. Durch das offene Tor schwebt er schwerelos in die nach außen hin offene Halle mit den großen Triebwerken.
+
+   **    2    **    2
+  ****   4   ****   4
+ ******  6  ******  6
+******** 8 ******** 8
+ ******  6  ******  6
+  ****   4   ****   4
+   **    2    **    2
+
+   **    2    **    2
+  ****   4   ****   4
+ ******  6  ******  6
+******** 8 ******** 8
+ ******  6  ******  6
+  ****   4   ****   4
+   **    2    **    2
+
+An der Wand zum Raumschiff hin sind in 4 Kreisen jeweils 32 Buzzard-Triebwerke befestigt, die den Schub erzeugen, um das Raumschiff zu beschleunigen. Jedes dieser 128 Triebwerke muss er einzeln auf Beschädigungen überprüfen.
