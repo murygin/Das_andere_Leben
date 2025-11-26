@@ -45,3 +45,8 @@ I: Neptun
 - [Interstellarer Raum](https://de.wikipedia.org/wiki/Interstellarer_Raum)
 - [Intergalaktischer Raum](https://de.wikipedia.org/w/index.php?title=Intergalaktischer_Raum&redirect=no)
 - [Vakuum](https://de.wikipedia.org/wiki/Vakuum)
+
+
+Buzzard Triebwerk
+- [Common buzzard (Mäusebussard)](https://en.wikipedia.org/wiki/Common_buzzard)
+- [Rolls-Royce R ](https://de.wikipedia.org/wiki/Rolls-Royce_R)
