@@ -41,6 +41,8 @@ I: Neptun
 
 ## Links
 
+- [Hitzeschutzkacheln](https://de.wikipedia.org/wiki/Hitzeschutzkachel) an der Unterseite des Space Shuttles:![Hitzeschutzkacheln an der Unterseite des Space Shuttles](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Shuttle_docked_at_ISS_STS114.jpeg/2560px-Shuttle_docked_at_ISS_STS114.jpeg)
+- [Lageregelung](https://www.dlr.de/de/schoollab/standorte/bremen/experimente/lageregelung)
 - [Interplanetarer Raum](https://de.wikipedia.org/wiki/Interplanetarer_Raum)
 - [Interstellarer Raum](https://de.wikipedia.org/wiki/Interstellarer_Raum)
 - [Intergalaktischer Raum](https://de.wikipedia.org/w/index.php?title=Intergalaktischer_Raum&redirect=no)
