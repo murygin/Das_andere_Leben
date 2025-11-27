@@ -38,6 +38,7 @@ I: Neptun
 ## Wörter
 
 - [gleichmütig](https://de.wiktionary.org/wiki/gleichm%C3%BCtig)
+- [abrupt](https://de.wiktionary.org/wiki/abrupt)
 
 ## Links
 
