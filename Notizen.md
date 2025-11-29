@@ -49,6 +49,26 @@ _Stichworte_
 - _Die Berührungen erregen ihn_
 - _Die drei kommen eich näher_
 
+Triebwerke
+
+```
+   **    2    **    2
+  ****   4   ****   4
+ ******  6  ******  6
+******** 8 ******** 8
+ ******  6  ******  6
+  ****   4   ****   4
+   **    2    **    2
+
+   **    2    **    2
+  ****   4   ****   4
+ ******  6  ******  6
+******** 8 ******** 8
+ ******  6  ******  6
+  ****   4   ****   4
+   **    2    **    2
+```
+
 Links
 - [Interplanetarer Raum](https://de.wikipedia.org/wiki/Interplanetarer_Raum)
 - [Interstellarer Raum](https://de.wikipedia.org/wiki/Interstellarer_Raum)
