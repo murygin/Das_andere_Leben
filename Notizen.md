@@ -35,6 +35,11 @@
 - H: Uranus
 - I: Neptun
 
+## Links
+
+- [JUICE (Jupiter Raumsonde)](https://de.wikipedia.org/wiki/JUICE_(Raumsonde))
+- [Trajektorie (Bahnkurve, Flugbahn)](https://de.wikipedia.org/wiki/Trajektorie_(Physik))
+
 ## Kapitel 4
 
 ![Mond G.14](https://upload.wikimedia.org/wikipedia/commons/8/83/PIA17202_-_Approaching_Enceladus.jpg)
