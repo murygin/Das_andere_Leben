@@ -107,7 +107,18 @@ Buzzard Triebwerk
 
 [Lageregelung](https://www.dlr.de/de/schoollab/standorte/bremen/experimente/lageregelung)
 
-## Wörter
+**Wörter**
 
 - [gleichmütig](https://de.wiktionary.org/wiki/gleichm%C3%BCtig)
 - [abrupt](https://de.wiktionary.org/wiki/abrupt)
+
+## Kapitel 7
+
+**Links**
+
+- [Weltraum](https://de.wikipedia.org/wiki/Weltraum)
+
+**Wörter**
+
+- [Leibesfülle](https://de.wiktionary.org/wiki/Leibesf%C3%BClle)
+
