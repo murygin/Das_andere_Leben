@@ -126,7 +126,8 @@ Buzzard Triebwerk
 
 **Links**
 
-[Weltraum](https://de.wikipedia.org/wiki/Weltraum)
+- [Weltraum](https://de.wikipedia.org/wiki/Weltraum)
+- [Swing-by-Manöver](https://de.wikipedia.org/wiki/Swing-by)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Cassini_-_four_Saturn_Moons.jpg/960px-Cassini_-_four_Saturn_Moons.jpg)
 Vier Saturnmonde: Titan (G.6, hinten), Dione (G.4, vor Titan), Prometheus (Mitte, unter den Ringen) und Telesto (oben) mit Saturnringen im Mittelgrund; fotografiert von der Raumsonde Cassini
