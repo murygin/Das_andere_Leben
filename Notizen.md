@@ -133,12 +133,16 @@ Buzzard Triebwerk
 Vier Saturnmonde: Titan (G.6, hinten), Dione (G.4, vor Titan), Prometheus (Mitte, unter den Ringen) und Telesto (oben) mit Saturnringen im Mittelgrund; fotografiert von der Raumsonde Cassini
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dione-PIA07746.jpg/500px-Dione-PIA07746.jpg)
+
 [Mond G.4 (Dione)](https://de.wikipedia.org/wiki/Dione_(Mond)), Mosaikbild der Raumsonde Cassini, aufgenommen am 11. Oktober 2005 beim bis dahin dichtesten Vorbeiflug der Sonde
 
 ![Titan im sichtbaren Licht, aufgenommen aus einer Entfernung von 174.000 km durch die Raumsonde Cassini, 2009](https://upload.wikimedia.org/wikipedia/commons/0/09/Two_Halves_of_Titan.png)
+
 [Mond G.6 (Titan)](https://de.wikipedia.org/wiki/Titan_(Mond)),  aufgenommen im sichtbaren Licht aus einer Entfernung von 174.000 km durch die Raumsonde Cassini, 2009
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jupiter_OPAL_2024_%28cropped%29.png/1280px-Jupiter_OPAL_2024_%28cropped%29.png)
 
+[Jupiter](https://de.wikipedia.org/wiki/Jupiter_(Planet)) in natürlichen Farben, aufgenommen mit dem Hubble-Weltraumteleskop am 5. Januar 2024
 
 **Wörter**
 
