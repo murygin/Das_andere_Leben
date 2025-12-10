@@ -144,6 +144,14 @@ Vier Saturnmonde: Titan (G.6, hinten), Dione (G.4, vor Titan), Prometheus (Mitte
 
 [Jupiter](https://de.wikipedia.org/wiki/Jupiter_(Planet)) in natürlichen Farben, aufgenommen mit dem Hubble-Weltraumteleskop am 5. Januar 2024
 
+![JunoCam-Foto von Jupiter mit dem Großen Roten Fleck](https://upload.wikimedia.org/wikipedia/commons/6/6c/PIA21376_-_Crescent_Jupiter_with_the_Great_Red_Spot.jpg)
+
+Foto der Raumsonde [Juno](https://de.wikipedia.org/wiki/Juno_(Raumsonde)) von Jupiter mit dem Großen Roten Fleck
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PIA22690_-_Jupiter_in_the_Rearview_Mirror_%28panorama%29.jpg/2560px-PIA22690_-_Jupiter_in_the_Rearview_Mirror_%28panorama%29.jpg)
+
+Foto der Raumsonde [Juno](https://de.wikipedia.org/wiki/Juno_(Raumsonde)) von Jupiter 
+
 **Wörter**
 
 - [Leibesfülle](https://de.wiktionary.org/wiki/Leibesf%C3%BClle)
