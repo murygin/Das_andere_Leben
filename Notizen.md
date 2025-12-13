@@ -10,7 +10,8 @@
 - Die 4 bleiben zusammen 
 - Flug von Planet G zu Planet G mit [Swing-by-Manöver](https://de.wikipedia.org/wiki/Swing-by)
 - Geburt (einer neuen 3)
-- Flug zur Erde 
+- Flug zur Erde
+- Brennstäbe im Reaktor müssen gewechselt werden
 - Ankunft und Umlaufbahn
 - Kollision mit Satelliten, Ausfall der Kommunikationssysteme 
 - Beobachtung der Ozeane,.Kontinente und Atmosphäre bzw. Wolken
