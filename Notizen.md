@@ -127,6 +127,7 @@ Buzzard Triebwerk
 
 **Links**
 
+- [Meteor von Tscheljabinsk](https://de.wikipedia.org/wiki/Meteor_von_Tscheljabinsk)
 -[Herausgeberfiktion](https://de.wikipedia.org/wiki/Herausgeberfiktion))
 - [Weltraum](https://de.wikipedia.org/wiki/Weltraum)
 - [Swing-by-Manöver](https://de.wikipedia.org/wiki/Swing-by)
