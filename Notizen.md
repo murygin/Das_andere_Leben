@@ -38,6 +38,7 @@
 
 ## Links
 
+- [Handbuch für Autorinnen und Autoren](https://www.uschtrin.de/buecher/uschtrin-handbuch-fuer-autorinnen-und-autoren/)
 - [JUICE (Jupiter Raumsonde)](https://de.wikipedia.org/wiki/JUICE_(Raumsonde))
 - [Trajektorie (Bahnkurve, Flugbahn)](https://de.wikipedia.org/wiki/Trajektorie_(Physik))
 
@@ -154,6 +155,10 @@ Foto der Raumsonde [Juno](https://de.wikipedia.org/wiki/Juno_(Raumsonde)) von Ju
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PIA22690_-_Jupiter_in_the_Rearview_Mirror_%28panorama%29.jpg/2560px-PIA22690_-_Jupiter_in_the_Rearview_Mirror_%28panorama%29.jpg)
 
 Foto der Raumsonde [Juno](https://de.wikipedia.org/wiki/Juno_(Raumsonde)) von Jupiter 
+
+![Animation der Mondphasen](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Lunar_libration_with_phase_Oct_2007.gif/500px-Lunar_libration_with_phase_Oct_2007.gif)
+
+Animation der [Mondphasen]https://de.wikipedia.org/wiki/Mondphase() – daneben sind auch Erdnähe und Erdferne als Größenschwankung und Libration als „Torkeln“ zu erkennen
 
 **Wörter**
 
