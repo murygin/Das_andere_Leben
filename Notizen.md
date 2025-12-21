@@ -165,3 +165,11 @@ Animation der [Mondphasen]https://de.wikipedia.org/wiki/Mondphase() – daneben 
 - [Leibesfülle](https://de.wiktionary.org/wiki/Leibesf%C3%BClle)
 - [versonnen](https://de.wiktionary.org/wiki/versonnen)
 
+## Kapitel 8
+
+**Links**
+
+![](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)#/media/File:Mars_helicopter_on_sol_46.png)
+[Ingenuity (helicopter)](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
+
+**Wörter**
