@@ -9,3 +9,4 @@ _Dieses Repository enthält ein Romanfragment._
 5. [Blau](Kapitel_5-Blau.md)
 6. [Interplanetarer Raum](Kapitel_6-Interplanetarer_Raum.md)
 7. [Start](Kapitel_7-Start.md)
+8. [Kapitel 8](Kapitel_8.md)
