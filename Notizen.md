@@ -62,7 +62,7 @@ Links
 ## Kapitel 5
 
 ![Apollo 15 Image of Receding Earth](./img/Apollo_15_Image_of_Receding_Earth-2048.jpg)
-Apollo 15 Image of Receding Earth
+Planet D (Apollo 15 Image of Receding Earth)
 
 Links
 
@@ -172,4 +172,9 @@ Animation der [Mondphasen]https://de.wikipedia.org/wiki/Mondphase() – daneben 
 ![](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)#/media/File:Mars_helicopter_on_sol_46.png)
 [Ingenuity (helicopter)](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
 
+[Multicopter](https://de.wikipedia.org/wiki/Multicopter)
+
 **Wörter**
+
+- [liederlich](https://de.wiktionary.org/wiki/liederlich)
+- [Terrain](https://de.wiktionary.org/wiki/Terrain)
