@@ -42,6 +42,7 @@
 - [JUICE (Jupiter Raumsonde)](https://de.wikipedia.org/wiki/JUICE_(Raumsonde))
 - [Trajektorie (Bahnkurve, Flugbahn)](https://de.wikipedia.org/wiki/Trajektorie_(Physik))
 - [Anthropomorphismus](https://de.wikipedia.org/wiki/Anthropomorphismus)
+- The free, open source Python module [markdown-pdf](https://github.com/vb64/markdown-pdf) will create a PDF file from your content in markdown format.
 
 ## Kapitel 1
 
