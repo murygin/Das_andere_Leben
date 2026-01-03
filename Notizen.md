@@ -41,6 +41,7 @@
 - [Handbuch für Autorinnen und Autoren](https://www.uschtrin.de/buecher/uschtrin-handbuch-fuer-autorinnen-und-autoren/)
 - [JUICE (Jupiter Raumsonde)](https://de.wikipedia.org/wiki/JUICE_(Raumsonde))
 - [Trajektorie (Bahnkurve, Flugbahn)](https://de.wikipedia.org/wiki/Trajektorie_(Physik))
+- [Anthropomorphismus](https://de.wikipedia.org/wiki/Anthropomorphismus)
 
 ## Kapitel 1
 
@@ -182,3 +183,7 @@ Animation der [Mondphasen]https://de.wikipedia.org/wiki/Mondphase() – daneben 
 
 - [liederlich](https://de.wiktionary.org/wiki/liederlich)
 - [Terrain](https://de.wiktionary.org/wiki/Terrain)
+- [grabschen](https://de.wiktionary.org/wiki/grabschen)
+- [nähren](https://de.wiktionary.org/wiki/n%C3%A4hren)
+- [waghalsig](https://de.wiktionary.org/wiki/waghalsig)
+- [ins Blaue](https://de.wiktionary.org/wiki/ins_Blaue)
